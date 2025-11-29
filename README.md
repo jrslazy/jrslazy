@@ -1,16 +1,16 @@
-# 👋 Hi, I'm Jorus Junio
+# Hi, I'm Jorus Junio 👋
 
-## 👤 Name:
+## Name:
 Jorus H. Junio
 
-## 🎓 Education:
+## Education:
 Bachelor of Science in Information Technology  
 1st Year – 2nd Semester
 
-## 🏅 Certifications:
+## Certifications:
 • SQL and Relational Databases 101 — (insert certificate link here)
 
-## 🛠️ Skillsets:
+## Skillsets:
 • Java
 • Python 
 • SQL  
