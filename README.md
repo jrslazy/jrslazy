@@ -1,5 +1,4 @@
-# Hi, I'm Jorus Junio 👋
-
+# Hi, I'm Jorus Junio (Josh)
 ---
 
 I am currently a 2nd Year IT student interested in software development and machine learning. I pursue ideas that merge clarity, function, and thoughtful execution.
