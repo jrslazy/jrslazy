@@ -15,7 +15,6 @@ I am currently a 2nd Year IT student passionate about software development and m
 - SQL and Relational Databases 101 — (insert certificate link here)
   
 ## Skillsets:
-
 - Java
 - Python 
 - SQL  
