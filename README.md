@@ -1,17 +1,16 @@
 # Hi, I'm Jorus Junio (Josh)
----
 
 I am currently a 2nd Year IT student interested in software development and machine learning. I pursue ideas that merge clarity, function, and thoughtful execution.
 
-### Education:
+## Education:
 - **Bachelor of Science in Information Technology**
   - New Era University
   - 2024-Present
 
-### Certifications:
+## Certifications:
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/ed04a0cf2a784e5dbe601d75cce27eea)
   
-### Skillsets:
+## Skillsets:
 - Java
 - Python 
 - SQL  
