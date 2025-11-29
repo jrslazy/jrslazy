@@ -8,7 +8,7 @@ I am currently a 2nd Year IT student passionate about software development and m
   - 2024-Present
 
 ## Certifications:
-- SQL and Relational Databases 101 — (insert certificate link here)
+- SQL and Relational Databases 101 — https://courses.cognitiveclass.ai/certificates/ed04a0cf2a784e5dbe601d75cce27eea
   
 ## Skillsets:
 - Java
