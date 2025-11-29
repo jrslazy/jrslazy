@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm jrslazy
 
-<!--
-**jrslazy/jrslazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👤 Name:
+Jorus H. Junio
 
-Here are some ideas to get you started:
+## 🎓 Education:
+Bachelor of Science in Information Technology  
+1st Year – 2nd Semester
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏅 Certifications:
+• SQL and Relational Databases 101 — (insert certificate link here)
+
+## 🛠️ Skillsets:
+• Java
+• Python 
+• SQL  
+• HTML & CSS  
+• Git & GitHub  
+• Basic Networking  
+• Problem Solving  
+• UI/UX (Figma Basics)  
