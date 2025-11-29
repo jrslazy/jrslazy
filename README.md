@@ -1,7 +1,6 @@
 # Hi, I'm Jorus Junio 👋
 
-## Name:
-Jorus H. Junio
+## I am a 1st Year IT student passionate about software development and machine learning, dedicated to building projects and solving real-world problems with code.
 
 ## Education:
 Bachelor of Science in Information Technology  
