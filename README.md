@@ -9,14 +9,12 @@ I am currently a 2nd Year IT student passionate about software development and m
 
 
 ## Certifications:
-• SQL and Relational Databases 101 — (insert certificate link here)
+- SQL and Relational Databases 101 — (insert certificate link here)
 
 ## Skillsets:
-• Java
-• Python 
-• SQL  
-• HTML & CSS  
-• Git & GitHub  
-• Basic Networking  
-• Problem Solving  
-• UI/UX (Figma Basics)  
+- Java
+- Python 
+- SQL  
+- HTML & CSS  
+- Problem Solving  
+- UI/UX (Figma Basics)  
