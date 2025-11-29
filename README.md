@@ -1,36 +1,21 @@
-```## Hi there 👋 I'm Jorus Junio
-  <hr>
-<h4> 🌱 I’m currently learning on Information Technology</h2>
-  <hr>
+# 👋 Hi, I'm Jorus Junio
 
-# Education
+## 👤 Name:
+Jorus H. Junio
 
-<ul>
-  <li>Bachelor of Science in Information Technology</li>
-  <ul>
-    <li>New Era University</li>
-    <li>2024 - Prsent</li>
-  </ul>
-</ul>
+## 🎓 Education:
+Bachelor of Science in Information Technology  
+1st Year – 2nd Semester
 
-  <hr>
+## 🏅 Certifications:
+• SQL and Relational Databases 101 — (insert certificate link here)
 
-# Certifications
-<ul>
-  <li><a> SQL and Relational Databases 101 </a></li>
-</ul>
-
-<!--
-**AlexisPidlaoan/AlexisPidlaoan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--  ...
--  ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->```
+## 🛠️ Skillsets:
+• Java
+• Python 
+• SQL  
+• HTML & CSS  
+• Git & GitHub  
+• Basic Networking  
+• Problem Solving  
+• UI/UX (Figma Basics)  
