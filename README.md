@@ -1,6 +1,6 @@
 # Hi, I'm Jorus Junio (Josh) 👋🏻
 
-I am currently a 2nd Year IT student interested in software development and machine learning. I pursue ideas that merge clarity, function, and thoughtful execution.
+I am currently a 2nd Year IT student interested in software development and machine learning. Still learning, keeping it logical, and doing what matters.
 
 ## Education:
 - **Bachelor of Science in Information Technology**
